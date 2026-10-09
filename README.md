@@ -8,6 +8,10 @@ Extension Chrome giúp **quét danh bạ Zalo Web**, lọc nick rác / bạn lâ
 
 - **Bản mới nhất:** https://github.com/tuanone123/zalo-friend-cleaner/releases/latest/download/zalo-friend-cleaner.zip
 
+## 📺 Video hướng dẫn sử dụng
+
+Xem hướng dẫn cài đặt & sử dụng từng bước: **https://www.youtube.com/watch?v=lmBijTdSKXc**
+
 ## 🚀 Cài đặt (Chrome / Edge / Cốc Cốc)
 
 1. Tải file `zalo-friend-cleaner.zip` ở trên và **giải nén** ra một thư mục.
